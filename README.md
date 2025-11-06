@@ -1,16 +1,30 @@
 Here you will find the pdf files 
 
-Ideation Phase :
+ I.Ideation Phase :
 
- 1.Problem statement	
+   1.Problem statement	
  
- 2.Empathy Map Canvas
- 
- 3.Brainstorming
- 
+   2.Empathy Map Canvas
+  
+   3.Brainstorming
+II.Project Planning Phase
 
-Project Design Phase:
+III.Project Design Phase:
 
-1.Problem Solution Fit
-2.Proposed Solution
-3.Solution Architecture
+   1.Problem Solution Fit
+  
+   2.Proposed Solution
+  
+   3.Solution Architecture
+
+ IV.Project Planning Phase :
+
+ V.Requirement Analysis consists of
+
+    1.Solution Requirement
+ 
+    2.Data Flow Diagram
+
+    3.Technology Stack
+   
+ VI.Project Demo vedio link : ----------------
