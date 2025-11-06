@@ -19,7 +19,7 @@ III.Project Design Phase:
 
  IV.Project Planning Phase :
 
- V.Requirement Analysis consists of
+ V.Requirement Analysis 
 
     1.Solution Requirement
  
